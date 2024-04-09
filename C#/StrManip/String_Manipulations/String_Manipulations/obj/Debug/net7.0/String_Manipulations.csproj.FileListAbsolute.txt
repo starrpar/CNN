@@ -1,0 +1,15 @@
+C:\Git\C#\StrManip\String_Manipulations\String_Manipulations\bin\Debug\net7.0\String_Manipulations.exe
+C:\Git\C#\StrManip\String_Manipulations\String_Manipulations\bin\Debug\net7.0\String_Manipulations.deps.json
+C:\Git\C#\StrManip\String_Manipulations\String_Manipulations\bin\Debug\net7.0\String_Manipulations.runtimeconfig.json
+C:\Git\C#\StrManip\String_Manipulations\String_Manipulations\bin\Debug\net7.0\String_Manipulations.dll
+C:\Git\C#\StrManip\String_Manipulations\String_Manipulations\bin\Debug\net7.0\String_Manipulations.pdb
+C:\Git\C#\StrManip\String_Manipulations\String_Manipulations\obj\Debug\net7.0\String_Manipulations.csproj.AssemblyReference.cache
+C:\Git\C#\StrManip\String_Manipulations\String_Manipulations\obj\Debug\net7.0\String_Manipulations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\C#\StrManip\String_Manipulations\String_Manipulations\obj\Debug\net7.0\String_Manipulations.AssemblyInfoInputs.cache
+C:\Git\C#\StrManip\String_Manipulations\String_Manipulations\obj\Debug\net7.0\String_Manipulations.AssemblyInfo.cs
+C:\Git\C#\StrManip\String_Manipulations\String_Manipulations\obj\Debug\net7.0\String_Manipulations.csproj.CoreCompileInputs.cache
+C:\Git\C#\StrManip\String_Manipulations\String_Manipulations\obj\Debug\net7.0\String_Manipulations.dll
+C:\Git\C#\StrManip\String_Manipulations\String_Manipulations\obj\Debug\net7.0\refint\String_Manipulations.dll
+C:\Git\C#\StrManip\String_Manipulations\String_Manipulations\obj\Debug\net7.0\String_Manipulations.pdb
+C:\Git\C#\StrManip\String_Manipulations\String_Manipulations\obj\Debug\net7.0\String_Manipulations.genruntimeconfig.cache
+C:\Git\C#\StrManip\String_Manipulations\String_Manipulations\obj\Debug\net7.0\ref\String_Manipulations.dll
